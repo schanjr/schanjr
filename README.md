@@ -23,11 +23,14 @@
 <img align="left" alt="Terraform" width="26px" src="https://user-images.githubusercontent.com/8445726/89437515-43b2e180-d77a-11ea-9c77-1d05faf712e8.png" />
 <img align="left" alt="AWS" width="26px" src="https://user-images.githubusercontent.com/8445726/89437248-ea4ab280-d779-11ea-80a1-0addb85c60e4.png" />
 
+<br/>
+
 ### Github Stats: 
 ![Stanley's github stats](https://github-readme-stats.vercel.app/api?username=schanjr&show_icons=true&theme=radical)
 ![Stanley's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=schanjr&theme=radical)
 <br/>
 _Looking to increase these numbers slowly and steadily 🚁_
+Github Stats Credits [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📷  Latest Photos
 <!-- POST-PHOTO-LIST:START -->
@@ -41,4 +44,3 @@ _Looking to increase these numbers slowly and steadily 🚁_
 [yahoo]: revengecape@yahoo.com.hk
 
 
-Github Stats Credits [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
