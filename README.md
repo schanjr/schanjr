@@ -48,6 +48,6 @@ Github Stats Credits [anuraghazra](https://github.com/anuraghazra/github-readme-
 [covid19]: https://covidtracking.com/
 [projects]: https://opensource.com/article/20/3/volunteer-covid19
 [linkedin]: https://www.linkedin.com/in/schanjr/
-[yahoo]: revengecape@yahoo.com.hk
+[yahoo]: mailto:revengecape@yahoo.com.hk
 
 
