@@ -1,17 +1,15 @@
 ### Hi there, I'm Stanley. 👋
-## I'm a developer, photographer, gamer, and most importantly, learner. 
+## I'm a developer, photographer, and most importantly learner. 
 - 👓 I'm currently working on some side projects related data organization and visualization. [grafana]
 - 😿  I'm looking to collaborate on some projects related to helping/addressing [covid19]. [projects]
 - 🥅 2020 Goals: Contribute more to Open Source projects and put more Web Apps online!
 <br/>
-
 ### Connect with me:
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Yahoo | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/8445726/89438436-67c2f280-d77b-11ea-9b3a-6f0b986bec37.png" />][yahoo]
-<br />
+<br/>
 
 ### Tech Chops:
-
 <img align="left" alt="Intellij" width="26px" src="https://user-images.githubusercontent.com/8445726/89436378-bae77600-d778-11ea-9324-98039f05bff4.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/8445726/89437693-7b218e00-d77a-11ea-8e55-6debb0c37647.png" />
 <img align="left" alt="Ruby" width="26px" src="https://user-images.githubusercontent.com/8445726/89437625-647b3700-d77a-11ea-8846-4d5de5e29a2a.png" />
@@ -29,7 +27,8 @@
 ![Stanley's github stats](https://github-readme-stats.vercel.app/api?username=schanjr&show_icons=true&theme=radical)
 ![Stanley's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=schanjr&theme=radical)
 <br/>
-_Looking to increase these numbers slowly and steadily 🚁_
+_Stats are not reflective on what I spend my time on at the moment. I'm mostly a Ruby developer 😂. But I'm looking to increase these numbers slowly and steadily 🚁_
+<br/>
 Github Stats Credits [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📷  Latest Photos
