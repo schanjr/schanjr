@@ -1,12 +1,16 @@
 ### Hi there, I'm Stanley. 👋
 ## I'm a developer, photographer, and most importantly learner. 
+
 - 👓 I'm currently working on some side projects related data organization and visualization. [grafana]
 - 😿  I'm looking to collaborate on some projects related to helping/addressing [covid19]. [projects]
 - 🥅 2020 Goals: Contribute more to Open Source projects and put more Web Apps online!
 <br/>
+
 ### Connect with me:
+
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Yahoo | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/8445726/89438436-67c2f280-d77b-11ea-9b3a-6f0b986bec37.png" />][yahoo]
+
 <br/>
 
 ### Tech Chops:
@@ -26,8 +30,10 @@
 ### Github Stats: 
 ![Stanley's github stats](https://github-readme-stats.vercel.app/api?username=schanjr&show_icons=true&theme=radical)
 ![Stanley's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=schanjr&theme=radical)
+
 <br/>
-_Stats are not reflective on what I spend my time on at the moment. I'm mostly a Ruby developer 😂. But I'm looking to increase these numbers slowly and steadily 🚁_
+_Stats are not reflective on what I spend my time on at the moment. I'm mostly a Ruby developer 😂. 
+But I'm looking to increase these numbers slowly and steadily 🚁_
 <br/>
 Github Stats Credits [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
