@@ -33,9 +33,10 @@
 
 
 <br/>
-*Stats are not reflective on what I spend my time on at the moment. I'm mostly a Ruby developer 😂. 
-But I'm looking to increase these numbers slowly and steadily 🚁*
+*Guess not enough commits yet, but I'm mostly a Ruby developer 😂. 🚁*
+
 <br/>
+
 Github Stats Credits [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📷  Latest Photos
