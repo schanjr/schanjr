@@ -1,5 +1,6 @@
 ### Hi there, I'm Stanley. 👋
-## I'm a developer, photographer, and most importantly learner. 
+
+## I'm a developer, a photographer, and Neophyte of many. 
 
 - 👓 I'm currently working on some side projects related data organization and visualization like [grafana].
 - 😿  I'm looking to collaborate on some [projects] related to helping/addressing [covid19].  
