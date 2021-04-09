@@ -15,7 +15,7 @@
 <br/>
 
 ### Tech Chops:
-<img align="left" alt="Intellij" width="26px" src="https://user-images.githubusercontent.com/8445726/89436378-bae77600-d778-11ea-9324-98039f05bff4.png" />
+<img align="left" alt="Golang" width="26px" src="https://user-images.githubusercontent.com/8445726/114212957-fe902080-9994-11eb-8cc1-d1fa97446fdd.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/8445726/89437693-7b218e00-d77a-11ea-8e55-6debb0c37647.png" />
 <img align="left" alt="Ruby" width="26px" src="https://user-images.githubusercontent.com/8445726/89437625-647b3700-d77a-11ea-8846-4d5de5e29a2a.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -25,6 +25,7 @@
 <img align="left" alt="Heroku" width="26px" src="https://user-images.githubusercontent.com/8445726/89437131-bb344100-d779-11ea-8eb3-903203da7d2a.png" />
 <img align="left" alt="Terraform" width="26px" src="https://user-images.githubusercontent.com/8445726/89437515-43b2e180-d77a-11ea-9c77-1d05faf712e8.png" />
 <img align="left" alt="AWS" width="26px" src="https://user-images.githubusercontent.com/8445726/89437248-ea4ab280-d779-11ea-80a1-0addb85c60e4.png" />
+<img align="left" alt="Intellij" width="26px" src="https://user-images.githubusercontent.com/8445726/89436378-bae77600-d778-11ea-9324-98039f05bff4.png" />
 
 <br/>
 
