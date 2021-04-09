@@ -40,7 +40,7 @@
 
 Github Stats Credits [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
-### 📷  Latest Photos
+<!-- ### 📷  Latest Photos -->
 <!-- POST-PHOTO-LIST:START -->
 <!-- POST-PHOTO-LIST:END -->
 
