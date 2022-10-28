@@ -1,14 +1,15 @@
 ### Hi there, I'm Stanley. 👋
 
-## I'm a developer, a photographer, and Neophyte of many. 
+## I'm a developer, a photographer, and data analyst. 
 
-- 👓 I'm currently working on some side projects related data organization and visualization like [grafana].
-- 😿  I'm looking to collaborate on some [projects] related to helping/addressing [covid19].  
-- 🥅 2020 Goals: Contribute more to Open Source projects and put more Web Apps online!
+- 👓 Working on datasets related to Singapore Housing.
+- 📸 Taking pictures of landscape, people, and interior lights. 
+- 🥅 2022 Goals: Contribute more to Open Source projects and put more Web Apps online!
 <br/>
 
 ### Connect with me:
 
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://user-images.githubusercontent.com/8445726/198712059-96e7e6dc-1523-454d-8142-b58a4aa096a7.svg" />][instagram]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Yahoo | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/8445726/89438436-67c2f280-d77b-11ea-9b3a-6f0b986bec37.png" />][yahoo]
 
@@ -34,11 +35,6 @@
 ![Stanley's github stats](https://github-readme-stats.vercel.app/api?username=schanjr&show_icons=true&theme=radical)
 
 
-<br/>
-*Guess not enough commits yet, but I'm mostly a Ruby developer 😂. 🚁*
-
-<br/>
-
 Github Stats Credits [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### 📷  Latest Photos -->
@@ -51,5 +47,5 @@ Github Stats Credits [anuraghazra](https://github.com/anuraghazra/github-readme-
 [projects]: https://opensource.com/article/20/3/volunteer-covid19
 [linkedin]: https://www.linkedin.com/in/schanjr/
 [yahoo]: mailto:revengecape@yahoo.com.hk
-
+[instagram]: https://www.instagram.com/stanporium/
 
