@@ -31,7 +31,7 @@
 <br/>
 
 ### Github Stats: 
-![Stanley's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=schanjr&theme=radical)
+![Stanley's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=schanjr&theme=radical&hide=jupyter%20notebook)
 ![Stanley's github stats](https://github-readme-stats.vercel.app/api?username=schanjr&show_icons=true&theme=radical)
 
 
