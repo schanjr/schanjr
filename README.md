@@ -2,9 +2,6 @@
 
 ## I'm a developer, a photographer, and data analyst. 
 
-- 👓 Working on datasets related to Singapore Housing.
-- 📸 Taking pictures of landscape, people, and interior lights. 
-- 🥅 2022 Goals: Contribute more to Open Source projects and put more Web Apps online!
 <br/>
 
 ### Connect with me:
