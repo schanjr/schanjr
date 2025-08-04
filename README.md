@@ -29,10 +29,6 @@
 
 ### Github Stats: 
 ![Stanley's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=schanjr&theme=radical&hide=jupyter%20notebook)
-#[Stanley's github stats](https://github-readme-stats.vercel.app/api?username=schanjr&show_icons=true&theme=radical)
-
-
-Github Stats Credits [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### 📷  Latest Photos -->
 <!-- POST-PHOTO-LIST:START -->
