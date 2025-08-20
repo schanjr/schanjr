@@ -4,6 +4,10 @@
 
 <br/>
 
+### Projects 
+- [PokeTasks](https://poketasks.vercel.app/), a gamified TODO List with a fun twist of earning pokeballs and catching pokemon. Mechanics has a lot of probabilities on what pokemon can be encountered or caught. 
+- [Singapore Housing Visualization](https://sg-housing.streamlit.app/), a visualization of different areas of Singapore with gov data. I was interested on learning about real estate in singapore. 
+
 ### Connect with me:
 
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://user-images.githubusercontent.com/8445726/198712059-96e7e6dc-1523-454d-8142-b58a4aa096a7.svg" />][instagram]
