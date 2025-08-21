@@ -5,7 +5,7 @@
 <br/>
 
 ### Projects 
-- [PokeTasks](https://poketasks.vercel.app/), a gamified TODO List with a fun twist of earning pokeballs and catching pokemon. Some mechanics on probabily to encounter rare pokemon and the ability to catch them. Hope this will not become too addicting and becomes ironic!
+- [PokeTasks](https://poketasks.vercel.app/), a gamified TODO List with a fun twist of earning pokeballs and catching pokemon. Some mechanics on probabilityy on encountering rare pokemon and the ability to catch them. Hope this won't become too addicting and becomes ironic!
 - [Singapore Housing Visualization](https://sg-housing.streamlit.app/), a visualization of different areas of Singapore with gov data. I was interested on learning about real estate in singapore. 
 
 ### Connect with me:
