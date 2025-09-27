@@ -7,7 +7,7 @@
 ### Projects 
 - [PokeTasks](https://poketasks.vercel.app/), a gamified TODO List with a fun twist of earning pokeballs and catching pokemon. Some mechanics on probabilityy on encountering rare pokemon and the ability to catch them. Hope this won't become too addicting and becomes ironic!
 - [Singapore Housing Visualization](https://sg-housing.streamlit.app/), a visualization of different areas of Singapore with gov data. Map shows density of housing listings available in public data. I was interested on learning about real estate in singapore.
-- [Austin Housing](https://austin-housings.streamlit.app/), moving to Austin. It combines various data sources to help me filter where to consider renting/buying properties in Austin, Texas. Includes data on crime rates, walkability, environment, neighborhood data points and merge them togethr as score cards. 
+- [Austin Housing](https://austin-housing.streamlit.app/), moving to Austin. It combines various data sources to help me filter where to consider renting/buying properties in Austin, Texas. Includes data on crime rates, walkability, environment, neighborhood data points and merge them togethr as score cards. 
 
 ### Connect with me:
 
