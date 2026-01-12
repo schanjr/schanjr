@@ -9,6 +9,11 @@
 - [Singapore Housing Visualization](https://sg-housing.streamlit.app/), a visualization of different areas of Singapore with gov data. Map shows density of housing listings available in public data. I was interested on learning about real estate in singapore.
 - [Austin Housing](https://austin-housing.streamlit.app/), moving to Austin. It combines various data sources to help me filter where to consider renting/buying properties in Austin, Texas. Includes data on crime rates, walkability, environment, neighborhood data points and merge them togethr as score cards. 
 
+<br/>
+
+### Blog
+- [schanjr.blog](https://schanjr.wordpress.com), occasionally I try to write something interesting I read or found at work. 
+
 ### Connect with me:
 
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://user-images.githubusercontent.com/8445726/198712059-96e7e6dc-1523-454d-8142-b58a4aa096a7.svg" />][instagram]
