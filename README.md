@@ -37,8 +37,7 @@
 
 <br/>
 
-### Github Stats: 
-![Stanley's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=schanjr&theme=radical&hide=jupyter%20notebook)
+
 
 <!-- ### 📷  Latest Photos -->
 <!-- POST-PHOTO-LIST:START -->
@@ -46,9 +45,7 @@
 
 
 [grafana]: https://grafana-monitor.herokuapp.com/d/H7a-pFmRz/covid-19?orgId=1
-[covid19]: https://covidtracking.com/
-[projects]: https://opensource.com/article/20/3/volunteer-covid19
 [linkedin]: https://www.linkedin.com/in/schanjr/
-[yahoo]: mailto:revengecape@yahoo.com.hk
+[gmail]: mailto:stanley.chan.social@gmail.com
 [instagram]: https://www.instagram.com/stanporium/
 
