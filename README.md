@@ -18,7 +18,7 @@
 
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://user-images.githubusercontent.com/8445726/198712059-96e7e6dc-1523-454d-8142-b58a4aa096a7.svg" />][instagram]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Yahoo | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/8445726/89438436-67c2f280-d77b-11ea-9b3a-6f0b986bec37.png" />][yahoo]
+[<img align="left" alt="gmail | LinkedIn" width="22px" src="https://github.com/user-attachments/assets/1fe34fc9-e0f9-4274-9f98-2342e8860fe9" />][gmail]
 
 <br/>
 
@@ -36,6 +36,7 @@
 <img align="left" alt="Intellij" width="26px" src="https://user-images.githubusercontent.com/8445726/89436378-bae77600-d778-11ea-9324-98039f05bff4.png" />
 
 <br/>
+
 
 
 
